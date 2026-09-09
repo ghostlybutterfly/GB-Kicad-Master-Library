@@ -1,0 +1,349 @@
+(footprint "CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html")
+	(tags "HytePro magnetic connector")
+	(property "Reference" "REF**"
+		(at -2.4 2.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ff5b72e4-e5c2-477e-b3d5-921bc4f807d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "4be84191-e836-4b8a-9291-2580d205d93c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02cc70fc-4577-448b-b966-0d9e99f3aa8c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b7cc673-9066-413f-b6db-993733606b55")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.4 -1.1)
+		(end -4.4 1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0d4da671-d6d1-40ee-aeed-6750d681156a")
+	)
+	(fp_line
+		(start -4.4 1.2)
+		(end -1.2 1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84e6ce43-fed5-4440-9941-a104e7e1bfb2")
+	)
+	(fp_line
+		(start 7.8 1.2)
+		(end 11 1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1be6c34-d7b4-4aca-b055-61661cd10137")
+	)
+	(fp_line
+		(start 11 -1.1)
+		(end 11 1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f0ce49fd-8d3c-49ed-88ef-9aaa856742f4")
+	)
+	(fp_poly
+		(pts
+			(xy 0 1.301892) (xy 0.24 1.631892) (xy -0.24 1.631892) (xy 0 1.301892)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "2b87a120-6a1a-4dca-b15a-92521824ea6d")
+	)
+	(fp_line
+		(start -4.803554 -2.803447)
+		(end -4.596448 -3.010447)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "364687c3-c56f-4a2d-94a7-0a01c36c2b21")
+	)
+	(fp_line
+		(start -4.450002 -3.364)
+		(end -4.45 -4.149894)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f7cae079-a25f-4643-bf54-bf17c04ef1d1")
+	)
+	(fp_line
+		(start -4.45 -1.949892)
+		(end 11.049999 -1.949892)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a960b020-ccff-4c26-9e86-2491336c3270")
+	)
+	(fp_line
+		(start 11.05 -3.363999)
+		(end 11.049999 -4.149894)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d47ab823-6847-4552-aabe-a0bc1833cea9")
+	)
+	(fp_line
+		(start 11.196446 -3.010446)
+		(end 11.403552 -2.803448)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ad24f6c7-5a80-4835-bde0-e34d3c138960")
+	)
+	(fp_arc
+		(start -4.950001 -4.649894)
+		(mid -4.596466 -4.503427)
+		(end -4.45 -4.149894)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9bc0ebe5-754c-4855-8c27-18e5c26555bd")
+	)
+	(fp_arc
+		(start -4.450002 -3.364)
+		(mid -4.488035 -3.172643)
+		(end -4.596448 -3.010447)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "387a060b-a4c7-4a79-8ab0-15a87a906c90")
+	)
+	(fp_arc
+		(start -4.45 -1.949892)
+		(mid -4.911926 -2.25856)
+		(end -4.803554 -2.803447)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f7256b03-f715-4c1c-8771-5c8b317a8137")
+	)
+	(fp_arc
+		(start 11.049999 -4.149894)
+		(mid 11.196414 -4.503481)
+		(end 11.55 -4.649895)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d6dedef4-4782-415d-9ce0-0901f6602872")
+	)
+	(fp_arc
+		(start 11.196446 -3.010446)
+		(mid 11.088048 -3.172657)
+		(end 11.05 -3.363999)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fcc17c76-bbee-49e6-a224-e5ab3bcfb63b")
+	)
+	(fp_arc
+		(start 11.403552 -2.803448)
+		(mid 11.51197 -2.258535)
+		(end 11.049999 -1.949892)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c100f9e3-5ffd-4430-8d09-b5eb4924d065")
+	)
+	(fp_line
+		(start -4.6 -2)
+		(end 11.2 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "607c34a5-bfab-4c37-b5a8-fd7bdb3db940")
+	)
+	(fp_line
+		(start -4.6 1.4)
+		(end -4.6 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a387a8b7-7099-4af6-824b-58e3f15d636a")
+	)
+	(fp_line
+		(start -4.6 1.4)
+		(end 11.2 1.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "be42a5a3-762f-4a1c-8355-bc5351e36833")
+	)
+	(fp_line
+		(start 11.2 1.4)
+		(end 11.2 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "7e904f08-ee12-46dc-b3fa-f9ce00464aa5")
+	)
+	(fp_text user "PCB Edge"
+		(at 3.3 -2.6 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "76ce9008-4163-44ba-8a70-bb294a81fda1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 3.25 -1.75 0)
+		(layer "F.Fab")
+		(uuid "bd402139-1856-43e4-a71f-8d1f5965ab6c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -1.7 0.2)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "6c54f345-dd1a-4574-aaca-2c848c7eead9")
+	)
+	(pad "" np_thru_hole circle
+		(at 8.3 0.2)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "17b3fbac-407d-4eb0-bc32-b1910cdcbe29")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "18b79990-b54e-4f8f-bac8-ca50e92d5a51")
+	)
+	(pad "2" thru_hole oval
+		(at 2.2 0)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de37c8ac-ecfa-468c-a662-802f59a220a4")
+	)
+	(pad "3" thru_hole oval
+		(at 4.4 0)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "29bf301b-7b59-4746-a08b-4ea53cd97216")
+	)
+	(pad "4" thru_hole oval
+		(at 6.6 0)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "de0e8ec6-1c12-4fc8-a044-4d767719acb9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_GITHUB}/Ariamelon-Kicad-Master-Library/3dmodels/Ariamelon-Connector-3D/HytePro_M411P_Plug_1x04.step"
+		(offset
+			(xyz 0 0 -1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

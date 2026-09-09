@@ -1,0 +1,243 @@
+(footprint "CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html")
+	(tags "HytePro magnetic connector")
+	(property "Reference" "REF**"
+		(at -8.8 2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "702f19b9-5374-4409-9545-070cb98ee13a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal"
+		(at -6.6 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c7b9af8f-67b3-4b2d-b89e-ee03cb5f8961")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed7c3f32-cdfe-4a6d-af76-7f517c1f4a05")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c2466c8-699a-4a29-a90b-4abe56f80f88")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -10.8 -1.1)
+		(end -10.8 1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d9212db7-2d04-476f-a54c-ef6624714064")
+	)
+	(fp_line
+		(start -10.8 1.1)
+		(end -7.8 1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26082d7f-9a10-4378-a9fb-f8aa886c6103")
+	)
+	(fp_line
+		(start 1.2 1.1)
+		(end 4.2 1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0ad5c7a8-7cf9-42c8-9b08-32ce85c9e68b")
+	)
+	(fp_line
+		(start 4.2 -1.1)
+		(end 4.2 1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b62a47f5-7bb8-49c8-b00a-a5554ef3b085")
+	)
+	(fp_poly
+		(pts
+			(xy 0 1.301892) (xy 0.24 1.631892) (xy -0.24 1.631892) (xy 0 1.301892)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "448d1c97-cfca-45a7-92fa-4097b009b623")
+	)
+	(fp_line
+		(start -11.05 -1.95)
+		(end 4.45 -1.95)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Cmts.User")
+		(uuid "2e4cc2c8-a054-4857-ac77-790746cb9b96")
+	)
+	(fp_line
+		(start -11 -2)
+		(end 4.4 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "94882e8a-1770-47be-8c92-1ebe36a6663e")
+	)
+	(fp_line
+		(start -11 1.3)
+		(end -11 -2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "9836eec6-bea6-45b3-9998-7ce78e0be288")
+	)
+	(fp_line
+		(start -11 1.3)
+		(end 4.4 1.3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "a5b9d542-9d89-4008-a06e-beb90061e24c")
+	)
+	(fp_line
+		(start 4.4 -2)
+		(end 4.4 1.3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1347266c-27d5-472a-bbde-90cb9f3094f1")
+	)
+	(fp_text user "PCB Edge"
+		(at -3.3 -2.6 0)
+		(unlocked yes)
+		(layer "Cmts.User")
+		(uuid "44088858-dd17-417b-b588-aed532c92411")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -3.25 -1.75 0)
+		(layer "F.Fab")
+		(uuid "31f567ea-5774-4e19-8139-bc5c6eb45bea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -8.3 0.2)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "cf35ba97-8842-4503-a88f-75b8cd58e138")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.7 0.2)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "1d23485a-3aac-46ec-920f-243fbd0fbe1a")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "fcebfd4f-97b6-4be7-a876-79c921b99a0d")
+	)
+	(pad "2" thru_hole oval
+		(at -2.2 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "038668b2-9406-4764-9735-ada4d4c0a46f")
+	)
+	(pad "3" thru_hole oval
+		(at -4.4 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2ea819b3-b586-4a41-a41a-4fad8668bbee")
+	)
+	(pad "4" thru_hole oval
+		(at -6.6 0 180)
+		(size 1.5 2)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "aeb569a4-ad77-45d9-b1d6-228ede031a06")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_GITHUB}/Ariamelon-Kicad-Master-Library/3dmodels/Ariamelon-Connector-3D/HytePro_M411P_Receptacle_1x04.step"
+		(offset
+			(xyz 0 0 -1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
