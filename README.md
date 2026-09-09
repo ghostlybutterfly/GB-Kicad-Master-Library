@@ -1,2 +1,2 @@
-# Ariamelon Kicad Master Library
- Aria's Kicad Master Library
+# Ghostly Butterfly's Kicad Master Library
+ Ghostly's Kicad Master Library
