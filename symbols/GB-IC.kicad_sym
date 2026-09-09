@@ -6529,7 +6529,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Ariamelon-Package:SOT-23-6"
+		(property "Footprint" "GB-Package:SOT-23-6"
 			(at 17.78 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9413,7 +9413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Ariamelon-Package:SOT-23-6"
+		(property "Footprint" "GB-Package:SOT-23-6"
 			(at 0 -1.524 0)
 			(show_name no)
 			(do_not_autoplace no)

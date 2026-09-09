@@ -121,32 +121,32 @@
   (pad "2" smd rect (at -3.3 5.95) (size 2.6 2.7) (layers "F.Cu" "F.Mask") (tstamp 236d7e44-ab6e-413d-8bd2-343e3078b054))
   (pad "2" thru_hole oval (at -3.175 -3.81 63.4) (size 6.3398 3.5) (drill oval 5.8398 3) (layers "*.Cu" "*.Mask") (tstamp 091cdaef-336f-4157-b628-473b4d9eb3b5))
   (pad "2" thru_hole oval (at -2.570001 -5.415 275.1) (size 4.1727 3.5) (drill oval 3.6727 3) (layers "*.Cu" "*.Mask") (tstamp c8460d19-583d-47d5-a947-b44b4da0b136))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Kailh_Hotswap-Socket_MX.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Kailh_Hotswap-Socket_MX.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Cherry_MX_PCB.STEP" hide
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Cherry_MX_PCB.STEP" hide
     (offset (xyz 0 0 -1.58))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Cap_DSA_1U.step" hide
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Cap_DSA_1U.step" hide
     (offset (xyz 0 0 -13.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Kailh_Hotswap-Socket_Choc.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Kailh_Hotswap-Socket_Choc.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Kailh_Choc.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Kailh_Choc.step"
     (offset (xyz 0 0 -3.83))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Cap_Choc_LP_1U.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Cap_Choc_LP_1U.step"
     (offset (xyz 0 0 -4))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))

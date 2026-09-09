@@ -86,7 +86,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp 56e803ae-cf30-41da-bc96-094f681bbab0))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Package-3D/Diodes_PowerDI3333-8.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Diodes_PowerDI3333-8.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

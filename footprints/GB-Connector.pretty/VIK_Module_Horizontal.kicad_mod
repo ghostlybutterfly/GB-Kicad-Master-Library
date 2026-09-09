@@ -101,7 +101,7 @@
   (pad "12" smd rect (at 2.75 -2) (size 0.3 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7ed77cd2-6419-4842-8ca9-02f64e14bab7))
   (pad "MP" smd rect (at -4.65 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 59378c49-ec3a-48f6-ad44-e01451addb07))
   (pad "MP" smd rect (at 4.65 1.4) (size 1.8 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2eb3c8d1-5672-42b5-a222-8f3d8b50c4db))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Connector-3D/Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal_Flippable.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal_Flippable.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

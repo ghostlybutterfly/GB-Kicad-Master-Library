@@ -68,7 +68,7 @@
         )
         (width 0) (fill yes))
     ) (tstamp 34d3cc02-c3cc-4e17-a024-ec2d737651d3))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Device-3D/LED_Lite-On_LTST-S310_3x1.5mm_Horizontal.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Device-3D/LED_Lite-On_LTST-S310_3x1.5mm_Horizontal.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

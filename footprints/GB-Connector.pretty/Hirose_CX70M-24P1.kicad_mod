@@ -285,7 +285,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp 43a7e3d9-f5c1-4abe-8114-cba945347656))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Connector-3D/Hirose_CX70M-24P1.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/Hirose_CX70M-24P1.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

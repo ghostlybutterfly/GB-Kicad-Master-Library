@@ -1,4 +1,4 @@
-(footprint "Ariamelon_Logo_x2" (version 20211014) (generator pcbnew)
+(footprint "GB_Logo_x2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 627F2372)
   (attr board_only exclude_from_pos_files exclude_from_bom)

@@ -243,7 +243,7 @@
       (gr_arc (start 0.67 0.697) (mid 0.346873 0.010401) (end 0.654277 -0.68338) (width 0.12))
       (gr_line (start -0.35 -0.69) (end 0.66 -0.69) (width 0.12))
     ) (tstamp 8728c8e9-510f-4ab7-83ea-0a0dc55f455f))
-  (model "${KIPRJMOD}/Kicad-Library/Footprints/Ariamelon.pretty/3d/OLED-128x64-0.96.step"
+  (model "${KIPRJMOD}/Kicad-Library/Footprints/GB.pretty/3d/OLED-128x64-0.96.step"
     (offset (xyz 34.4 -7.2 7.24))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

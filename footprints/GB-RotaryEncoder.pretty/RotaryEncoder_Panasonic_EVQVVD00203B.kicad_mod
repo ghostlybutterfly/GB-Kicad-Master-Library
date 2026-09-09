@@ -50,7 +50,7 @@
   (pad "B" smd rect (at 2.5 8.1) (size 1.4 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4e811ca7-0fd9-4d05-a501-a948b992bdea))
   (pad "C" smd rect (at 0 -6.1 90) (size 1.8 3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 657029a1-bb9e-4544-b061-0561d97f4cad))
   (pad "C" smd rect (at 0 8.1) (size 1.4 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ec34c119-1fc7-4bab-a618-9edcd6bc477f))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-RotaryEncoder-3D/RotaryEncoder_Panasonic_EVQVVD00203B.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-RotaryEncoder-3D/RotaryEncoder_Panasonic_EVQVVD00203B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

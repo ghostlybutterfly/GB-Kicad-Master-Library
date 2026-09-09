@@ -98,12 +98,12 @@
   (pad "2" smd rect (at 0.000001 -2.25 180) (size 9.509998 1.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9c93b2f2-8b8a-4520-8af7-0e98d639d5ec))
   (pad "2" thru_hole circle (at 3.25 -2.25 270) (size 2 2) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 4250ad9a-4e85-4e4d-95b9-5752f8fb6cab))
   (pad "3" thru_hole circle (at -0.000009 -7.049981 90) (size 2.2 2.2) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp ca68a796-2e6a-4cbd-91f1-311b5be97971))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_SPST_PTS645_7mm.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_SPST_PTS645_7mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Alps_D2F-01F.step" hide
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Alps_D2F-01F.step" hide
     (offset (xyz 0 2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -83,7 +83,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 4054d84e-600a-4071-b6e5-938ba992970b))
   (pad "1" thru_hole circle (at -12.7 0 180) (size 4.5 4.5) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 56751dea-4bd5-4bad-b042-ed9f4a35f782))
   (pad "1" thru_hole circle (at 12.7 0) (size 4.5 4.5) (drill 3.2) (layers "*.Cu" "*.Mask") (tstamp 9603a5fb-7244-43de-8b2d-0cf6ceb96f09))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Misc-3D/Heatsink_CUI_HSE-B20380-040H.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Misc-3D/Heatsink_CUI_HSE-B20380-040H.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

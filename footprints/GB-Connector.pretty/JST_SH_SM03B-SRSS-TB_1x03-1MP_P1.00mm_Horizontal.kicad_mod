@@ -64,7 +64,7 @@
   (pad "MP" thru_hole circle (at 1.4 2.3) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp e8a17c5c-9027-4fdf-9b0f-7301c17f2216))
   (pad "MP" smd roundrect (at 2 1.9) (size 1.8 1.8) (layers "F.Cu") (roundrect_rratio 0.1666666667) (tstamp 218d446c-bd56-4f08-9cfc-0f3bae0bffc2))
   (pad "MP" smd rect (at 2.3 1.9) (size 1.2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6e78e531-5e8c-41e0-b2e2-698c1c587367))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Connector-3D/JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

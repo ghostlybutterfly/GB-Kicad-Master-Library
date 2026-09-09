@@ -335,7 +335,7 @@
 		(uuid "a042b246-5cb5-46b9-a845-7c2b0f06b7ab")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_GITHUB}/Ariamelon-Kicad-Master-Library/3dmodels/Ariamelon-Connector-3D/HytePro_M411P_Receptacle_1x04.step"
+	(model "${KICAD_GITHUB}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/HytePro_M411P_Receptacle_1x04.step"
 		(offset
 			(xyz 0 0 -1.2)
 		)

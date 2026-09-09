@@ -37,7 +37,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 374ad02d-787e-4bab-b549-989e2a16d96b))
   (pad "1" smd rect (at -0.725 0) (size 0.55 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0fea1c4a-9136-4818-9be4-b2af996761f4))
   (pad "2" smd rect (at 0.725 0) (size 0.55 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 502fefd9-3c19-49ef-be14-2bf368847f34))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Device-3D/L_Murata_DFE201610P.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Device-3D/L_Murata_DFE201610P.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

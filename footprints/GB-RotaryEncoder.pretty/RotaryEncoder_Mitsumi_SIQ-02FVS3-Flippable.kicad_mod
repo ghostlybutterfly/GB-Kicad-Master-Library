@@ -143,7 +143,7 @@
   (pad "MP" smd rect (at 5.1 1.3) (size 1.2 1.3) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e8b8d6f7-2b59-4f61-9201-632f3f9d16d1))
   (pad "S" smd rect (at -1.475 7.6) (size 1.3 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 26844c4d-55b7-4bd0-9056-cac2e13c2250))
   (pad "S" smd rect (at 1.475 7.6) (size 1.3 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 4ff8d351-90c3-4d5b-82fe-e3e693dec201))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-RotaryEncoder-3D/RotaryEncoder_Mitsumi_SIQ-02FVS3.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-RotaryEncoder-3D/RotaryEncoder_Mitsumi_SIQ-02FVS3.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

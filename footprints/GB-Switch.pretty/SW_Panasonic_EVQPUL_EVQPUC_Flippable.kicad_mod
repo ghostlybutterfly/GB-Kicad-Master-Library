@@ -81,7 +81,7 @@
   (pad "2" smd rect (at -2.6 0.85 180) (size 1.6 1.1) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 17c735e7-1e84-46a5-9576-08608ea60034))
   (pad "2" smd rect (at 2.6 0.85 180) (size 1.6 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4b522f1f-62ea-47e3-afaf-2405951d8a1a))
   (pad "2" smd rect (at 2.6 0.85 180) (size 1.6 1.1) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ce933d68-5751-42c9-9d64-28521cb0cede))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Panasonic_EVQPUL_EVQPUC.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Panasonic_EVQPUL_EVQPUC.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -142,7 +142,7 @@
   (pad "C" thru_hole circle (at 0.4 6.9 90) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 5c7329f3-1b0c-4fd5-a4a3-17d6c6209606))
   (pad "C" thru_hole circle (at 1.9 -6.5 180) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 7087fc6c-4cee-4f4e-b7dd-cf6efb84d515))
   (pad "C" thru_hole circle (at 1.9 -5.700001 180) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp 6d3830b8-3a2c-436b-98e0-bbf13fc77865))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-RotaryEncoder-3D/RotaryEncoder_Panasonic_EVQVVD00203B.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-RotaryEncoder-3D/RotaryEncoder_Panasonic_EVQVVD00203B.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

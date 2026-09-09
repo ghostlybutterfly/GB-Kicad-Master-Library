@@ -1,4 +1,4 @@
-(footprint "Ariamelon_Logo_x3_CU" (version 20221018) (generator pcbnew)
+(footprint "GB_Logo_x3_CU" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (property "Sheetfile" "Cantaloupe.kicad_sch")
   (property "Sheetname" "")

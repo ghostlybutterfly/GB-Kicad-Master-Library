@@ -491,7 +491,7 @@
 		(uuid "3d5c67f5-6ff9-4796-b5c1-75d6a3f48577")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Connector-3D/HRO_TYPE-C-31-M-13C.step"
+	(model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Connector-3D/HRO_TYPE-C-31-M-13C.step"
 		(offset
 			(xyz 0 0 0)
 		)

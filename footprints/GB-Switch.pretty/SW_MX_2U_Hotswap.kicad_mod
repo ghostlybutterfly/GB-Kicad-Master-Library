@@ -130,22 +130,22 @@
       e6da34f9-8d76-498c-835b-65f6ce27225e
     )
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Kailh_Hotswap-Socket_MX.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Kailh_Hotswap-Socket_MX.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Cherry_MX_PCB.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Cherry_MX_PCB.STEP"
     (offset (xyz 0 0 -1.58))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Stabilizer_2U.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Stabilizer_2U.step"
     (offset (xyz 0 0 -0.32))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))
   )
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Switch-3D/SW_Cap_DSA_2.25U.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Switch-3D/SW_Cap_DSA_2.25U.step"
     (offset (xyz 0 0 -13.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))

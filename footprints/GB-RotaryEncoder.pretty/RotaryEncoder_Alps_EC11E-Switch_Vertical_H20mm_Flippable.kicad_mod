@@ -102,7 +102,7 @@
   (pad "MP" thru_hole rect (at 0 5.6) (size 3.2 2) (drill oval 2.8 1.5) (layers "*.Cu" "*.Mask") (tstamp 940855f8-798a-46fc-a316-2a020157dd21))
   (pad "S1" thru_hole circle (at 7 2.5) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 03ade997-c9ed-421b-a2f7-765dbf9b23ab))
   (pad "S2" thru_hole circle (at 7 -2.5) (size 2 2) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 5655cdfe-c12c-40a0-a42b-cf4c16df15d7))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-RotaryEncoder-3D/RotaryEncoder_Alps_EC11E_Vertical_H20mm.step"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-RotaryEncoder-3D/RotaryEncoder_Alps_EC11E_Vertical_H20mm.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

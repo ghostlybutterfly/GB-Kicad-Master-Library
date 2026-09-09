@@ -51,7 +51,7 @@
   (pad "4" smd rect (at 5.9 2.54 90) (size 0.9 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9d1e35c5-2624-4d8d-937a-e9eaeddd955f))
   (pad "5" smd rect (at 5.9 0 90) (size 0.9 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e9abafc-1fd1-442f-8ec8-60b78aa75802))
   (pad "6" smd rect (at 5.9 -2.54 90) (size 0.9 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6da2c9f8-33a0-4019-b6f2-e9f4e5c7ba23))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Device-3D/L_Murata_786J.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Device-3D/L_Murata_786J.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

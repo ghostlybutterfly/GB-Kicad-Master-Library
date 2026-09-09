@@ -49,7 +49,7 @@
   (pad "2" smd rect (at 0.7 0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82ee7744-0249-4049-a9ae-bf50a9e86bd3))
   (pad "3" smd rect (at 0.7 -0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1259f0b9-907b-40e6-8ed8-60107d45b13c))
   (pad "4" smd rect (at -0.7 -0.55) (size 0.9 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cbc9241c-8606-4c07-9edc-64c2127bb1c2))
-  (model "${KIPRJMOD}/Ariamelon-Kicad-Master-Library/Ariamelon-Device-3D/Crystal_SMD_2016-4Pin_2.0x1.6mm.STEP"
+  (model "${KIPRJMOD}/GB-Kicad-Master-Library/3dmodels/GB-Device-3D/Crystal_SMD_2016-4Pin_2.0x1.6mm.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

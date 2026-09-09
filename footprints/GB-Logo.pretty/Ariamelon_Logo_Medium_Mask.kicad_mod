@@ -1,4 +1,4 @@
-(footprint "Ariamelon_Logo_x2_Mask" (version 20221018) (generator pcbnew)
+(footprint "GB_Logo_x2_Mask" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
