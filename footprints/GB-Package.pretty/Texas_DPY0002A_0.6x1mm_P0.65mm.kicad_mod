@@ -9,7 +9,7 @@
 		(at 0 -1.25 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "cdfe5d14-f841-4615-8c82-7d52dc222f5a")
+		(uuid "ba0037cf-8476-4e03-9ec0-8e30f80b07cb")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 1.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "f00a4eff-fd90-4526-80db-92e83e4d5246")
+		(uuid "237f9941-2e4f-48ff-be29-e1c385969e83")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2a89cbf1-7783-436e-9eb3-973127b5cb67")
+		(uuid "0c3c8cb2-4106-441c-925d-6a07676f2890")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3f45879a-3315-41f6-976e-19eee2caf7cb")
+		(uuid "e68fa5be-2cac-4d43-acb9-5c1bfdde0e07")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -65,7 +65,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "69b40ccb-8034-4756-9045-1f31cdb1c597")
+		(uuid "093b0207-362b-4024-b1e5-f49154481ca5")
 	)
 	(fp_line
 		(start -0.65 -0.45)
@@ -75,7 +75,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "de9c7a15-e7e3-484f-8d13-e43598c99921")
+		(uuid "5b47fa81-b2f0-47d5-8da2-c770852dafc1")
 	)
 	(fp_line
 		(start -0.65 0.45)
@@ -85,7 +85,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "2b65385f-2a24-4cdf-81a9-23702515bc80")
+		(uuid "25999161-fd8e-4a92-9578-3c46e69fed23")
 	)
 	(fp_rect
 		(start -0.65 -0.45)
@@ -96,7 +96,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "b051b875-f90a-45c6-9a9f-92651f051453")
+		(uuid "6ec6c19e-fa8c-4ee4-84d8-4a829a61f77d")
 	)
 	(fp_line
 		(start -0.4 0.3)
@@ -106,7 +106,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "82ae8b3c-9ff2-46ae-a47e-f5b6bface67a")
+		(uuid "e95cc778-6d02-40c8-b8f5-8e39b4098237")
 	)
 	(fp_line
 		(start -0.3 0.3)
@@ -116,7 +116,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "1aa613bc-a5c1-4d69-b465-baba7e08a231")
+		(uuid "a164b5cc-9553-456e-88c7-20eabe8d6c5d")
 	)
 	(fp_line
 		(start -0.2 0.3)
@@ -126,7 +126,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "349a10dd-4a70-4ea4-9f10-ecd510160604")
+		(uuid "cad598de-70a9-46f7-81a6-159ce6a44917")
 	)
 	(fp_rect
 		(start -0.5 -0.3)
@@ -137,12 +137,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "db25094a-fb55-4069-b42d-cbe562060108")
+		(uuid "a473a5b4-890c-48b7-90db-59e47d202957")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "3b45883f-2bcf-4186-ac58-3d31df37005b")
+		(uuid "a88fd4e3-aee3-4ca2-9f31-a4cbf0478504")
 		(effects
 			(font
 				(size 0.25 0.25)
@@ -156,7 +156,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "a854e472-e531-4e58-969c-32df68bb83a4")
+		(uuid "91ef1a75-bd4b-4a54-9128-9b02797eb4eb")
 	)
 	(pad "2" smd roundrect
 		(at 0.35 0)
@@ -164,10 +164,10 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "51629552-d7be-4408-bc83-1ae001b7ca98")
+		(uuid "98995dad-4b59-4ddc-b4d8-503e27baf22a")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DPY0002A_0.6x1mm_P0.65mm.step"
+	(model "${KICAD_GITHUB}/Galia/PCB/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1,0 +1,192 @@
+(footprint "Layer_Marker"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d9a354e2-e740-4f5e-8f8e-cc3de5b6aa95")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Layer_Marker"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "dfe8074e-684c-4b93-bd27-0f833ae2880c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dedab10d-945d-4b88-8fa6-fe59b1fd2a3c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a053e568-3e4c-41de-8fe5-a21575a33f3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "KiLib_Generator" "layer_maker"
+		(at 4.674999 -0.75 90)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0eaf8abe-e5e5-4e08-beb7-9cf8aa6ec35a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(stackup
+		(layer "F.Cu")
+		(layer "B.Cu")
+		(layer "In1.Cu")
+		(layer "In2.Cu")
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -1 -1.2)
+		(end 4.75 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "6c0d4bfd-a64c-4806-b7a3-1c77d4ebcaa2")
+	)
+	(fp_rect
+		(start -1 -1.2)
+		(end 4.75 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "13713f85-e492-4a75-9f77-3d75786e9ca4")
+	)
+	(fp_text user "1"
+		(at 0 0.05 0)
+		(unlocked yes)
+		(layer "F.Cu")
+		(uuid "ccb25466-7740-4898-9a7b-ebe66e7f40ed")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.225)
+			)
+		)
+	)
+	(fp_text user "4"
+		(at 3.75 0.05 0)
+		(unlocked yes)
+		(layer "B.Cu")
+		(uuid "1441513f-389a-4ceb-ba56-191241ace987")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.225)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "2"
+		(at 1.25 0.05 0)
+		(unlocked yes)
+		(layer "In1.Cu")
+		(uuid "5558fa86-b329-4323-9ffd-0e54a9503df3")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.225)
+			)
+		)
+	)
+	(fp_text user "3"
+		(at 2.5 0.05 0)
+		(unlocked yes)
+		(layer "In2.Cu")
+		(uuid "43227655-ded2-4e3c-8264-b865d6a916ce")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.225)
+			)
+			(justify mirror)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f8283fa2-5239-4ae5-814e-360638a66598")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(zone
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu")
+		(uuid "23c486c6-89df-4056-b017-d4fe4042ff84")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 4.75 1.2) (xy -1.000002 1.2) (xy -1 -1.2) (xy 4.75 -1.2)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
