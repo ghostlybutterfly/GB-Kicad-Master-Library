@@ -9,7 +9,7 @@
 		(at 0 -1.25 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "ba0037cf-8476-4e03-9ec0-8e30f80b07cb")
+		(uuid "d87c5f5c-6e58-4c12-afb4-e6b6f6605783")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(at 0 1.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "237f9941-2e4f-48ff-be29-e1c385969e83")
+		(uuid "f5e6e04d-87bc-4e96-82b7-764ce957f011")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0c3c8cb2-4106-441c-925d-6a07676f2890")
+		(uuid "04e65942-298f-4bf9-a650-4c048c3b0867")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e68fa5be-2cac-4d43-acb9-5c1bfdde0e07")
+		(uuid "1337fcf9-29f7-4af7-9ccc-2ad92fd78bd1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,35 +57,17 @@
 	)
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
-	(fp_line
-		(start -0.65 -0.45)
-		(end -0.65 0.45)
-		(stroke
-			(width 0.1)
-			(type default)
+	(fp_poly
+		(pts
+			(xy -0.7 0) (xy -1 -0.2) (xy -1 0.2)
 		)
-		(layer "F.SilkS")
-		(uuid "093b0207-362b-4024-b1e5-f49154481ca5")
-	)
-	(fp_line
-		(start -0.65 -0.45)
-		(end -0.05 -0.45)
 		(stroke
-			(width 0.1)
-			(type default)
+			(width 0.12)
+			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
-		(uuid "5b47fa81-b2f0-47d5-8da2-c770852dafc1")
-	)
-	(fp_line
-		(start -0.65 0.45)
-		(end -0.05 0.45)
-		(stroke
-			(width 0.1)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "25999161-fd8e-4a92-9578-3c46e69fed23")
+		(uuid "da4a6733-64bd-4c1a-a064-b96efc873344")
 	)
 	(fp_rect
 		(start -0.65 -0.45)
@@ -96,7 +78,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "6ec6c19e-fa8c-4ee4-84d8-4a829a61f77d")
+		(uuid "d042694e-dafa-462c-8114-02a79d7e56c8")
 	)
 	(fp_line
 		(start -0.4 0.3)
@@ -106,7 +88,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "e95cc778-6d02-40c8-b8f5-8e39b4098237")
+		(uuid "7affdfa9-2728-4b64-8276-4d78fe0ea104")
 	)
 	(fp_line
 		(start -0.3 0.3)
@@ -116,7 +98,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "a164b5cc-9553-456e-88c7-20eabe8d6c5d")
+		(uuid "bcc98b19-9c08-48a0-ae98-bf60992194e2")
 	)
 	(fp_line
 		(start -0.2 0.3)
@@ -126,7 +108,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "cad598de-70a9-46f7-81a6-159ce6a44917")
+		(uuid "af38e9cf-6f08-4ae0-a67a-b5a46737d28b")
 	)
 	(fp_rect
 		(start -0.5 -0.3)
@@ -137,12 +119,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "a473a5b4-890c-48b7-90db-59e47d202957")
+		(uuid "35c69fde-8957-49a9-82b0-f1b98628eddd")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "a88fd4e3-aee3-4ca2-9f31-a4cbf0478504")
+		(uuid "1bc84d28-b7bf-4214-bc44-30c9ef9a1577")
 		(effects
 			(font
 				(size 0.25 0.25)
@@ -156,7 +138,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "91ef1a75-bd4b-4a54-9128-9b02797eb4eb")
+		(uuid "17743388-10b4-4f1e-91b1-c09b3a3c5206")
 	)
 	(pad "2" smd roundrect
 		(at 0.35 0)
@@ -164,7 +146,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "98995dad-4b59-4ddc-b4d8-503e27baf22a")
+		(uuid "8ad0c735-9c2e-4df3-a493-9bbac1473877")
 	)
 	(embedded_fonts no)
 	(model "${KICAD_GITHUB}/Galia/PCB/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
