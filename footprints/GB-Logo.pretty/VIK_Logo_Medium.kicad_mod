@@ -1,47 +1,167 @@
-(footprint "VIK_Logo_Medium" (version 20221018) (generator pcbnew)
-  (layer "F.Cu")
-  (attr smd)
-  (fp_text reference "REF**" (at -0.05 -6.96 unlocked) (layer "User.1")
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 21637da7-1b71-4b90-9df3-519a1d12304d)
-  )
-  (fp_text value "vik-logo-medium" (at 0.1 9.97 unlocked) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 87ab7988-c3b9-4382-9060-fe884b622fa2)
-  )
-  (fp_text user "${REFERENCE}" (at 0.3 0.3 unlocked) (layer "F.Fab")
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp b50e7758-82a0-4734-9059-732c66b7c5b7)
-  )
-  (fp_line (start -7.183542 -4.782401) (end -4.713947 -4.781476)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp cf0ef2b8-c460-41c8-b040-a7c36f20975b))
-  (fp_line (start -5.94265 -4.066535) (end 5.966861 -4.066535)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp a038c751-de59-4e24-83d5-a769de0da748))
-  (fp_line (start -4.522363 -0.174502) (end -7.183542 -4.782401)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp bc824d82-b9ca-4bf2-b3b2-e6e34f9c8ca5))
-  (fp_line (start 0.012105 6.247404) (end -5.94265 -4.066535)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp b2e22d1d-9c2c-40b7-9022-59e3102e30d8))
-  (fp_line (start 0.017145 7.721245) (end -1.216787 5.582013)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 99a8925d-5f14-4c19-8483-e1708a257ea0))
-  (fp_line (start 1.87 -4.75) (end 7.191148 -4.75075)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 1522ffd9-a0a5-4481-9d55-c6ef6b88a265))
-  (fp_line (start 2.67707 3.11262) (end 0.017145 7.721245)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp a6015625-291f-4ee1-bfc2-3dd2bf5f67a9))
-  (fp_line (start 5.966861 -4.066535) (end 0.012105 6.247404)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp ba705c3e-3715-4317-b468-706c109121b0))
-  (fp_line (start 7.191148 -4.75075) (end 5.955482 -2.612518)
-    (stroke (width 0.25) (type solid)) (layer "F.SilkS") (tstamp 5542b906-7145-4746-bc95-0e9fff2b2dda))
-  (group "" (id d77565fb-8630-4723-b8d7-6c202fbd96b6)
-    (members
-      1522ffd9-a0a5-4481-9d55-c6ef6b88a265
-      5542b906-7145-4746-bc95-0e9fff2b2dda
-      99a8925d-5f14-4c19-8483-e1708a257ea0
-      a038c751-de59-4e24-83d5-a769de0da748
-      a6015625-291f-4ee1-bfc2-3dd2bf5f67a9
-      b2e22d1d-9c2c-40b7-9022-59e3102e30d8
-      ba705c3e-3715-4317-b468-706c109121b0
-      bc824d82-b9ca-4bf2-b3b2-e6e34f9c8ca5
-      cf0ef2b8-c460-41c8-b040-a7c36f20975b
-    )
-  )
+(footprint "VIK_Logo_Medium"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.05 -6.96 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "db2b8883-3560-463d-8687-16e8ad5b4a78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "vik-logo-medium"
+		(at 0.1 9.97 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "14bed543-36ad-4317-a39a-5f60de198915")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbcab90e-10f2-4846-ae82-aad4edf96d71")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "390b0d70-8813-4d1f-8765-c85563d557fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd board_only exclude_from_pos_files exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -7.183542 -4.782401)
+		(end -4.713947 -4.781476)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4e24d7e-8539-4483-ad81-bba94c2aeff9")
+	)
+	(fp_line
+		(start -5.94265 -4.066535)
+		(end 5.966861 -4.066535)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18e5d579-cdd5-4122-bb2e-05751b35ba67")
+	)
+	(fp_line
+		(start -4.522363 -0.174502)
+		(end -7.183542 -4.782401)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "73e6f44f-82f4-44cf-820c-4b8f5017db35")
+	)
+	(fp_line
+		(start 0.012105 6.247404)
+		(end -5.94265 -4.066535)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35de8636-7b2e-44a0-9382-1a27d3d23a55")
+	)
+	(fp_line
+		(start 0.017145 7.721245)
+		(end -1.216787 5.582013)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59ea7367-7971-4b7e-905f-dfe611f4d44c")
+	)
+	(fp_line
+		(start 1.87 -4.75)
+		(end 7.191148 -4.75075)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "77bb3a37-faf3-4002-9767-780af69f5a82")
+	)
+	(fp_line
+		(start 2.67707 3.11262)
+		(end 0.017145 7.721245)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "490ecd28-0057-4c70-9959-530c94036200")
+	)
+	(fp_line
+		(start 5.966861 -4.066535)
+		(end 0.012105 6.247404)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3faae5e1-9e9a-4ed2-9f01-243e564fcfad")
+	)
+	(fp_line
+		(start 7.191148 -4.75075)
+		(end 5.955482 -2.612518)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "be35a265-a227-4c5e-8021-c611f291b805")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.3 0.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "143b1f03-2dd1-487f-8777-0ebee03c475f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(group ""
+		(uuid "a8690ef7-9abf-4fef-9939-6ff120732fb8")
+		(members "18e5d579-cdd5-4122-bb2e-05751b35ba67" "35de8636-7b2e-44a0-9382-1a27d3d23a55"
+			"3faae5e1-9e9a-4ed2-9f01-243e564fcfad" "490ecd28-0057-4c70-9959-530c94036200"
+			"59ea7367-7971-4b7e-905f-dfe611f4d44c" "73e6f44f-82f4-44cf-820c-4b8f5017db35"
+			"77bb3a37-faf3-4002-9767-780af69f5a82" "be35a265-a227-4c5e-8021-c611f291b805"
+			"f4e24d7e-8539-4483-ad81-bba94c2aeff9"
+		)
+	)
+	(embedded_fonts no)
 )
