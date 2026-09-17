@@ -1,4 +1,4 @@
-(footprint "Texas_DPY0002A_0.6x1mm_P0.65mm"
+(footprint "X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -9,7 +9,7 @@
 		(at 0 -1.25 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "d87c5f5c-6e58-4c12-afb4-e6b6f6605783")
+		(uuid "27928e97-c089-402b-afdb-f87da5ad35f4")
 		(effects
 			(font
 				(size 1 1)
@@ -17,11 +17,11 @@
 			)
 		)
 	)
-	(property "Value" "Texas_DPY0002A_0.6x1mm_P0.65mm"
+	(property "Value" "X1SON_0.6x1mm_P0.65mm_Texas_DPY0002A"
 		(at 0 1.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "f5e6e04d-87bc-4e96-82b7-764ce957f011")
+		(uuid "f439069e-7088-4686-8ab5-933f34ed9980")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "04e65942-298f-4bf9-a650-4c048c3b0867")
+		(uuid "652a0d95-996b-4874-ba39-fdadd4e17918")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1337fcf9-29f7-4af7-9ccc-2ad92fd78bd1")
+		(uuid "07dfb1da-fd8a-4a53-9838-a549e6ccc244")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -67,7 +67,7 @@
 		)
 		(fill yes)
 		(layer "F.SilkS")
-		(uuid "da4a6733-64bd-4c1a-a064-b96efc873344")
+		(uuid "21b277f8-fd0b-44fd-b8db-630812f6260b")
 	)
 	(fp_rect
 		(start -0.65 -0.45)
@@ -78,7 +78,7 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "d042694e-dafa-462c-8114-02a79d7e56c8")
+		(uuid "acc978cd-20aa-49d4-889c-f10ea06d6d04")
 	)
 	(fp_line
 		(start -0.4 0.3)
@@ -88,7 +88,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "7affdfa9-2728-4b64-8276-4d78fe0ea104")
+		(uuid "cde05f14-3e68-49af-834a-e3aea79df9b3")
 	)
 	(fp_line
 		(start -0.3 0.3)
@@ -98,7 +98,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "bcc98b19-9c08-48a0-ae98-bf60992194e2")
+		(uuid "755200c9-02f0-498c-83b6-dc21ff5a012d")
 	)
 	(fp_line
 		(start -0.2 0.3)
@@ -108,7 +108,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "af38e9cf-6f08-4ae0-a67a-b5a46737d28b")
+		(uuid "bb22cd5d-b43d-4e5b-973a-cf248be061da")
 	)
 	(fp_rect
 		(start -0.5 -0.3)
@@ -119,12 +119,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "35c69fde-8957-49a9-82b0-f1b98628eddd")
+		(uuid "ddd9fc72-057d-4b42-a1ac-90489e4b67e0")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "1bc84d28-b7bf-4214-bc44-30c9ef9a1577")
+		(uuid "1d2aac46-7c0f-4f22-83ec-cd608161e62d")
 		(effects
 			(font
 				(size 0.25 0.25)
@@ -138,7 +138,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "17743388-10b4-4f1e-91b1-c09b3a3c5206")
+		(uuid "e6fb1f81-0e26-4270-819a-b19f2e66aeb3")
 	)
 	(pad "2" smd roundrect
 		(at 0.35 0)
@@ -146,7 +146,7 @@
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
 		(solder_mask_margin 0.05)
-		(uuid "8ad0c735-9c2e-4df3-a493-9bbac1473877")
+		(uuid "a28ab829-8280-45fb-b34a-781236e7d646")
 	)
 	(embedded_fonts no)
 	(model "${KICAD_GITHUB}/Galia/PCB/GB-Kicad-Master-Library/3dmodels/GB-Package-3D/Texas_X1SON_X1SON-2 0.6x1mm.stp"
